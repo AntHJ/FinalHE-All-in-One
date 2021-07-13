@@ -1,6 +1,9 @@
 # FinalHE All-in-One
 the excellent FinalHE but with an added bonus
 
+      NOTE : I did not created FinalHE, or the apps it installs (with the exception of the CloneTool)
+      I extracted and recompiled them to work with the FinalHE installer
+
 - if you are connecting your Vita using a USB connection you may need to install the included drivers,
 - if you are connecting with WiFi, make sure you dont have CMA or QCMA intalled or running and make sure that you select allow on the Windows security message popup.
 
