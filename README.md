@@ -44,7 +44,14 @@ the excellent FinalHE but with an added bonus
 - VitaShell
   - File Manager
   
-# Recommended
+  
+  
+  
+                                      ** I have also included my SD Format Tool **
+  
+  
+  
+# Recommended app to Install
   
 * Hencore
 * Modoru with 3.65
@@ -53,3 +60,4 @@ the excellent FinalHE but with an added bonus
 * Autoplugin2
 * Adrenaline
 * Adrenaline Bubble Manager
+* UX0 to SD CloneTool (optional)
