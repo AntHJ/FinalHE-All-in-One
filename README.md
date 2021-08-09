@@ -1,6 +1,8 @@
 # FinalHE All-in-One
 the excellent FinalHE but with an added bonus
 
+![Screenshot](https://github.com/AntHJ/FinalHE-All-in-One/blob/main/AIO-1.jpg)
+
       NOTE : I did not created FinalHE, or the apps it installs (with the exception of the CloneTool)
       I extracted and recompiled them to work with the FinalHE installer
 
@@ -61,3 +63,5 @@ the excellent FinalHE but with an added bonus
 * Adrenaline
 * Adrenaline Bubble Manager
 * UX0 to SD CloneTool (optional)
+
+![Screenshot](https://github.com/AntHJ/FinalHE-All-in-One/blob/main/AIO-2.jpg)
