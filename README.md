@@ -23,8 +23,6 @@ the excellent FinalHE but with an added bonus
   - (To swap the linked PSN ID)
 - Adrenaline Bubble Manager
   - Create direct launching bubbles to your Adrenaline (PSP/PS1) games
-- UX0 to SD CloneTool
-  - My own created tool to help automate the setup of an SD card
 - Autoplugin2
   - Manage your systems plugins
 - Custom Themes Manager
@@ -45,10 +43,16 @@ the excellent FinalHE but with an added bonus
   - Test all the input functions of the Vita
 - VitaShell
   - File Manager
-  
-  
-  
-  
+
+== I have created 2 of my own Apps and have included them ==
+
+- UX0 to SD CloneTool
+  - My own created tool to help automate the setup of an SD card
+
+- AppLocker
+  - Lock access to Apps (great to stop kids messing)  
+
+
                                       ** I have also included my SD Format Tool **
   
   
