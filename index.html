@@ -10,7 +10,7 @@
         function detectPlayStationVita() {
             var userAgent = navigator.userAgent;
 
-            if (userAgent.includes("PlayStation Vita")) {
+            if (userAgent.indexOf("PlayStation Vita") !== -1 ) {
                 window.location.href = "https://jailbreak.psp2.dev";
             } else {
                 window.location.href = "https://sites.google.com/view/psppsvitagroup/vita-pstv/guides";
