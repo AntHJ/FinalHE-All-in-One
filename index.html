@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detect PlayStation Vita</title>
+</head>
+<body>
+    <script>
+        function detectPlayStationVita() {
+            var userAgent = navigator.userAgent;
+
+            if (userAgent.includes("PlayStation Vita")) {
+                window.location.href = "https://jailbreak.psp2.dev";
+            } else {
+                window.location.href = "https://sites.google.com/view/psppsvitagroup/vita-pstv/guides";
+            }
+        }
+
+        detectPlayStationVita();
+    </script>
+</body>
+</html>
